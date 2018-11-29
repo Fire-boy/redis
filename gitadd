@@ -1,0 +1,6 @@
+git init
+git remote add redis https://github.com/Fire-boy/redis.git
+git add *
+git commit -m 'wgw redis'
+#git push redis master 
+git push redis +master
